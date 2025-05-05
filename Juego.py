@@ -1,4 +1,4 @@
-#yoikeado mamawebo
+#yoikeado mamawebonaaaaaaaaaaso
 import os
 import random
 import time
